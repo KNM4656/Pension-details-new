@@ -1,0 +1,4 @@
+com\cognizant\mfpe\pensionManagementSystem\pensionerDetail\JunitTestSuite.class
+com\cognizant\mfpe\pensionManagementSystem\pensionerDetail\service\BankLogServiceTests.class
+com\cognizant\mfpe\pensionManagementSystem\pensionerDetail\controller\PensionerDetailControllerTests.class
+com\cognizant\mfpe\pensionManagementSystem\pensionerDetail\TestRunner.class
